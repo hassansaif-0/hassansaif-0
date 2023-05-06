@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Face Drawing**
 
-- 💬 Ask me about **C++,JS,React,NodeJs,GoLang,Web3.0,MYSQL**
+- 💬 Ask me about **Full Stack Development,JS,React,NodeJs,Express JS,GoLang,Web3.0,Databases**
 
 - 📫 How to reach me **hassansaifraja102@gmail.com**
 
